@@ -31,5 +31,4 @@ public abstract class Vechicle {
         this.brand = brand;
     }
 
-    //mudanca irrelevante
 }
