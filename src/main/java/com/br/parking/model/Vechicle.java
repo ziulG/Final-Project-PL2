@@ -30,4 +30,6 @@ public abstract class Vechicle {
     public void setBrand(String brand) {
         this.brand = brand;
     }
+
+    //mudanca irrelevante
 }
